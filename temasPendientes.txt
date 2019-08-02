@@ -1,0 +1,35 @@
+-Consulta de documentos con varias imagenes
+-Codigo de barras en sintweb04
+-Datos mensuales facturas. Paco NAranjo. Hecho pendiente Postman
+-APP recompilar
+-Saltarse facturas de anulacion directas electrónicas (EMSA) en aplicacion RDI. Pendiente de ponerlo en PRO
+-Ayuntamiento de Adt y Almogia
+-Consulta bimestral de CdD
+-Documentos sin imagenes 2019/50071, 2019/50702 2014/25693  http://qsintweb01.emasa.es:8080/TT/Sv0293P?TIPO=BIN&ANO=2019&NUM=50071
+-Alta en los ultimos transportes
+-Vigilancia de la salud
+-Doble factor en visores externos
+-Vaciar papelera de un workspace
+-consulta por contador, punto radio o punto lectura, se puede incluir en la consulta web
+
+
+
+
+
+Hecho
+-Mariola comprobar como se veía en la Antigua GD
+-MSG en el listado COPET, evitar que abra nueva ventana
+-En la consulta interna mostrar los documentos de confidencialidad alta
+-Revision facturacion Coritel. Concha
+-Documentos que faltan: FacturaPeriodica, FacturaSD e InformeTecnico
+-XML de jemplo de JLFF
+-Incicidencia status 500 hoy viernes
+-Codigo de barras en Sefac01. Pendiente transporte
+-Miraflores del Palo
+-Revisar Hutt. Paco Naranjo
+-Revisar Carlos becario
+-TuComunidad
+-Consulta por fecha en Athento
+-Inserciones por fecha
+-Consulta por cuenta contrato
+-Consulta de avisos para Anexos PM Beatriz
